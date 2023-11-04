@@ -1,1 +1,2 @@
-# MatrixVectorMultiplication
+# Умножение матрицы N*M на вектор
+![](matrix.PNG)

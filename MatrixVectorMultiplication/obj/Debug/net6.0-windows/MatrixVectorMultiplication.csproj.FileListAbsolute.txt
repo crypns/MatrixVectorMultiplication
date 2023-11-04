@@ -1,0 +1,17 @@
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\MatrixVectorMultiplication.csproj.AssemblyReference.cache
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\MatrixVectorMultiplication.Form1.resources
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\MatrixVectorMultiplication.csproj.GenerateResource.cache
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\MatrixVectorMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\MatrixVectorMultiplication.AssemblyInfoInputs.cache
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\MatrixVectorMultiplication.AssemblyInfo.cs
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\MatrixVectorMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\bin\Debug\net6.0-windows\MatrixVectorMultiplication.exe
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\bin\Debug\net6.0-windows\MatrixVectorMultiplication.deps.json
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\bin\Debug\net6.0-windows\MatrixVectorMultiplication.runtimeconfig.json
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\bin\Debug\net6.0-windows\MatrixVectorMultiplication.dll
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\bin\Debug\net6.0-windows\MatrixVectorMultiplication.pdb
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\MatrixVectorMultiplication.dll
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\refint\MatrixVectorMultiplication.dll
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\MatrixVectorMultiplication.pdb
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\MatrixVectorMultiplication.genruntimeconfig.cache
+C:\Users\merlber\source\repos\MatrixVectorMultiplication\MatrixVectorMultiplication\obj\Debug\net6.0-windows\ref\MatrixVectorMultiplication.dll
